@@ -1,6 +1,6 @@
 # python-newsfeed
-Python Demonstration
 
+Python Demonstration
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -33,10 +33,7 @@ This Just Tech News application is refactored to use Python instead of Javascrip
 ## Deployment
 
 - The application has been deployed to Netifly:-
-
-  ![alt text](./assets/img03.jpg)
-
-- The URL of the functional deployed application is 
+- The URL of the functional deployed application is
 
 ## Usage
 
@@ -62,18 +59,9 @@ The screenshots of the overview of the application:-
 
 - **The login and signup page**
   ![alt text](./assets/img02.jpg)
-
-- **The dashboard page**
-  ![alt text](./assets/img01.jpg)
-
-- **The create new posts page**
-  ![alt text](./assets/img03.jpg)
-
+- **The dashboard pagehe create new posts page**
 - **The comments page**
-  ![alt text](./assets/img04.jpg)
-
-- **The Edits page**  
-  ![alt text](./assets/img05.jpg)
+- **The Edits page**
 
 ## References
 
