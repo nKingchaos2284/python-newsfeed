@@ -32,7 +32,7 @@ This Just Tech News application is refactored to use Python instead of Javascrip
 
 ## Deployment
 
-- The application has been deployed to Netifly:-
+- The application has been deployed to Netifly:- https://pyhonbook.netlify.app/
 - The URL of the functional deployed application is
 
 ## Usage
